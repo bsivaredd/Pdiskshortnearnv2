@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am pdiskshortearn.xyz, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am pdiskshortearn, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
     
 1. Go To 👉 https://pdiskshortearn.xyz/member/tools/api  
 2. Than Copy API Key
@@ -18,11 +18,11 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Shortnerfly than **contact** at 👉 @Cyniteofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of pdiskshortnearn than **contact** at 👉 @pdiskshortearn_xyz (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From Your ShortnerFly Account,**
+I Am pdiskshortnearn, Bulk Link Converter Bot. I Can Convert Links Directly From Your pdiskshortnearn Account,**
     
 1. Go To 👉 https://pdiskshortnearn.xyz/member/tools/api  
 2. Than **Copy API** Key
@@ -37,14 +37,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Shortnerfly** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""pdiskshortnearn** than **contact** at 👉 @pdiskshortnearn_xyz (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Shortener Fly Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is pdiskshortnearn. I am pdiskshortnearn Link Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Shortnerfly** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **pdiskshortnearn** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -149,7 +149,7 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Harman, I am pdiskshortnearn, Bulk Link Converter Bot From Linked shortnerfly.com Account,**
+USERNAME_TEXT = """**Hello Harman, I am pdiskshortnearn, Bulk Link Converter Bot From Linked pdiskshortnearn.xyz Account,**
 
 **🌟 Type** /channel (channel link or username)
 
